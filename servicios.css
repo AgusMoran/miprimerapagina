@@ -2,13 +2,13 @@ body{
     background-color:lightblue;
     color: darkblue;
 }
-h1{font-family:monospace;
+h1aaa{font-family:monospace;
 font-size: 36px; 
 padding:38px;
 text-align: center
 ;}
 
-h2{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+h2aaaa{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
     color: darkblue;
     text-align:left;}
@@ -16,7 +16,7 @@ h2{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
 color:darkblue;
 text-align: left;}
-p{font-family: 'Times New Roman', Times, serif;
+paaa{font-family: 'Times New Roman', Times, serif;
 margin: 20px;
 padding: 30px;
 font-size: 18px;
